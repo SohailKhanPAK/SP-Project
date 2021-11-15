@@ -1,0 +1,2 @@
+# SP-Project
+In this project, we build a project for the music sort classification. The dataset is collected from the "Musical genre classification of audio signals" paper. The dataset consists of 1000 soundtracks every 30 seconds in length. It contains ten types, each tended to by 100 tracks. The types are Blues, Classical, Country, Disco, etc. . We  use "Librosa" for analyzing the audio signals, and we may use "IPython" to play audio.
